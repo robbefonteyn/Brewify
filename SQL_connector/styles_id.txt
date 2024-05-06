@@ -1,0 +1,491 @@
+1	Blonde ale
+2	Donker
+3	Blond
+4	Sterke ale amber
+5	Sterke ale blond
+6	Witbier
+7	Fruitbier banaan
+8	Dubbel abdij
+9	Honingbier
+10	Sterke ale donker
+11	Tripel
+12	Dubbel
+13	Rood bruin
+14	Donkere ale
+15	Pils
+16	blond
+17	Amber ale
+18	Stout
+19	Ale
+20	Sterke ale
+21	IPA
+22	Kriek
+23	Bokbier
+24	Faro
+25	Strong Golden Ale
+26	Amber
+27	Scotch
+28	Rye Beer
+29	Belgian Ale - Pale / Golden
+30	Reinaert amber
+31	Pale Ale
+32	Fruitbier
+33	Laagalcoholisch blond
+34	Pale ale
+35	Laagalcoholisch
+36	Gueuze
+37	Fruitbier frambozen
+38	Fruitbier krieken
+39	Lambik
+40	Grape ale
+41	Strong Dark Ale
+42	Porter
+43	Saison
+44	Quadrupel
+45	Seizoensbier
+46	Blond seizoensbier
+47	Kruidenbier
+48	Kerstbier
+49	Massieve ale
+50	Gerstewijn - Barley wine - vin d'orge
+51	Bière de Garde
+52	nbekend - Unknown - Inconnu
+53	Wilde ale
+54	Barleywine
+55	Laag alcoholisch
+56	Bubbel abdij
+57	Fruitbier perzikken
+58	Sour
+59	Donker abdij
+60	Tafelbier
+61	Tafelbier blond
+62	Kerstbier blond
+63	Fruitbier Frambozen
+64	Fruitbier perziken
+65	Fruitbier cassis
+66	Zure ale
+67	Kerstbier donker
+68	Fruitbier / Radler
+69	Aperitiefbier
+70	Rookbier - Smoke beer - Bière fumée
+71	Laagalcoholisch donker
+72	Speciaal granenbier
+73	Dortmunder
+74	Sour - Flanders Oud Bruin
+75	Fruitbier bosvruchten
+76	Oud bruin
+77	Paasbier pils
+78	Kerstbier pils
+79	Gruut
+80	rood bruin
+81	Radler
+82	Grape Ale
+83	Lambiek
+84	Speciale kruidenbier
+85	Kerstbier amber ale
+86	Scotch Ale
+87	California Common
+88	Speciaal granenbier spelt
+89	Dubbele IPA
+90	Barley Wine
+91	Rood Bruin
+92	Bok
+93	Sterke lager
+94	Amber lager
+95	Strong dark
+96	Smoked Beer
+97	Fruitbier aardbeien
+98	Tripel IPA
+99	fruitbier
+100	Tripel hop
+101	Sour - Fruited
+102	Bock donker
+103	Alcoholvrij
+104	Belgische Ale
+105	Special Belge
+106	Red ale
+107	Engels bitter
+108	Speciaal zwaar bier
+109	Amber Winter Ale
+110	Kerstbier amber
+111	Oude Gueuze
+112	Bokbier donker
+113	Fruitbier passie en mango
+114	IPA Dubbel
+115	Fruitbier bosbessen
+116	Fruitbier Krieken
+117	Fruitbier passie
+118	Lager
+119	Fruitbier kersen
+120	Dubbel bruin
+121	Laagalcoholisch bruin
+122	Suikervrij blond
+123	Sterk blond
+124	Non-Alcoholic Beer
+125	Fruitbier pompoen
+126	Belgian Strong Golden Ale
+127	Triple
+128	Dubbel Abdij
+129	IPA dubbel
+130	Speciaalbier
+131	Sterke als blond
+132	Tripel hop amber
+133	Fruitbier appel
+134	Oude kriek
+135	Belgian Black IPA
+136	Oud bruin, Vlaams bruin
+137	Imperial Russian Stout
+138	Strong ale
+139	Gruutbier
+140	Winterbier
+141	Roodbruin
+142	Biere de garde
+143	speciaal bier
+144	Spiced / Herbed Beer
+145	Donkere IPA
+146	Imperial Red Ale
+147	American Pale Ale
+148	Zeer sterke ale
+149	Red Ale
+150	Alcoholarm - Low Alcohol
+151	Donkerblond
+152	Amberblond
+153	Eisbock
+154	Old Ale
+155	Russian Imperial Stout
+156	Bock
+157	Zure ale (Sour/Wild Ale)
+158	Black IPA
+159	IPA donker
+160	Double White IPA
+161	Wild Ale
+162	Blond (Belgian Ale)
+163	Imperial Stout
+164	White IPA
+165	Berliner Weisse
+166	Belgische ale
+167	Bockbier amber
+168	Grisette
+169	Gerijpt op houten vat
+170	Brandewijn
+171	Paasbier
+172	""
+173	Smoked - Rauchbier
+174	Gerstenwijn
+175	Sour/Wild Ale
+176	Belgian Strong Ale
+177	Experimenteel
+178	Donker kerstbier
+179	Sterk donker
+180	Light
+181	Oud Bruin
+182	Special ale
+183	Bière Brut
+184	Oak Aged
+185	Laag alcohol
+186	Spicy pumpkin ale
+187	IPA Donker
+188	Donkere tripel
+189	Imperial IPA
+190	Donker tarwebier
+191	sterke blonde ale
+192	Rookbier - Smoked - Rauchbier
+193	Rode ale
+194	Winterbier amber
+195	Gelegenheidsbier
+196	Gluhbier
+197	Winterbier donker
+198	IPA tripel
+199	IPA amber
+200	Donker blond
+201	Export
+202	Laag aloholisch blond
+203	Barley wine
+204	Donker winterbier
+205	Fruitbier - Kriek
+206	Scotch ale
+207	Bitter
+208	Speciaal granen
+209	Irish ale
+210	Special grain
+211	New England IPA
+212	Ierse ale
+213	Cognac Aged Belgium Barley Wine
+214	Raspberry Ale
+215	Fruitbier Pompoen
+216	Speciaal bier met wortelen
+217	Fruitbier frambosen
+218	Witbier met rode biet
+219	Fruitbier met meloen
+220	Speciaal bier
+221	Geuze
+222	Lichtblond
+223	Laag alcohol blond
+224	Champagnebier
+225	Rookbier
+226	Chocoladebier
+227	Kölsch
+228	Zwickel/Keller/Landbier
+229	Zwaar blond
+230	Saison glutenvrij
+231	Porter - Imperial
+232	Hoogblond
+233	Laag alcoholisch donker
+234	Specialty Grain
+235	gueuze
+236	Barrel aged
+237	Barred aged
+238	Vlaams rood bruin
+239	Brown Ale - Belgian
+240	Pale Lager
+241	Smoked
+242	IPA - Black / Dark
+243	IPA - Hazy / New England
+244	Leipzig Gose
+245	Belgian Tripel
+246	American Pale Ale (APA)
+247	Baltic Porter
+248	Blonde Ale
+249	Pale Ale - American
+250	Brown Ale
+251	German Kellerbier / Zwickelbier
+252	American Imperial IPA
+253	Pilsener
+254	Dark Ale
+255	Gruit / Ancient Herbed Ale Amber
+256	Barley Wine / Wheat Wine
+257	Sterk Blond
+258	IPA - Black
+259	IPA - Brut
+260	Belgian Pale Ale
+261	Donker speciaalbier
+262	Non-Alcoholic Beer Radler
+263	Weissbier - Dunkelweizen
+264	Gruit / Ancient Herbed Ale
+265	Fruitbier Framboos
+266	Spice / Herb / Vegetable
+267	Belgian Strong Dark Ale
+268	Sour/Wild Beer
+269	Sour/Flanders Red/Brown
+270	IPA - Black/Brown/Cascadian Dark
+271	Sour - Gose
+272	Saison/Grisette/Farmhouse Ale
+273	Strong lager
+274	Low alcoholic
+275	Red Ale / Int Amber Ale
+276	Sour / Wild Beer
+277	Low / No Alcohol Beer
+278	Sour - Flanders Red / Bruin
+279	Bruin
+280	Lager - Pale
+281	Lager - Euro Pale
+282	Märzen / Oktoberfest Bier
+283	Radler pompelmoes/grapefruit
+284	IPA - Belgian
+285	Pale Ale - Belgian
+286	Belgian Blonde
+287	Lager - American
+288	Bock - Single / Traditional
+289	Laag-alcoholisch
+290	Belgian Ale - Strong Pale
+291	European Strong Lager
+292	European Pale Lager
+293	Strong blond
+294	Flavored
+295	Schwarzbier
+296	Pale Lager - India / Hoppy
+297	Double New England IPA
+298	IPA - Sour / Wild
+299	Blackberry Baltic Porter
+300	Stout - Imperial
+301	Scottish Saison
+302	Flavored - Fruit
+303	Double IPA
+304	Sour / Wild Beer - Flavored
+305	Bock - Dunkler Bock
+306	ISA - Session IPA
+307	Fruitbier bosbessen - Fruit Beer blueberries
+308	Fruit Beer
+309	Donker koper
+310	IPA Black
+311	Gose
+312	Winter Ale
+313	Honey Beer
+314	Saison dark
+315	Stout - Imperial / Double
+316	Lambic
+317	Vlaams roodbruin
+318	Herb and Spice Beer
+319	Strong Blond
+320	German Hefeweizen
+321	English Mild Ale
+322	IPA - Sour
+323	Flanders Oud Bruin
+324	Spéciale du Brass'Heure
+325	Dark strong ale
+326	Winter ale
+327	Winter Ale blond
+328	Sour beer
+329	Traditional Ale
+330	Belgian Ale - Pale
+331	Flanders Red Ale
+332	Table Beer
+333	Low alcohol
+334	Belgian Dark Ale
+335	Strong Pale Ale
+336	Gluten-Free
+337	Strong amber
+338	Bière de Champagne / Bière Brut
+339	Non-Alcoholic
+340	Sour Wild beer
+341	Herbed Beer
+342	Schwarzbier / Black Lager
+343	Sour - Gose - Fruited
+344	Sour - Flanders Red
+345	Strong dark ale
+346	Sour - Berliner Weisse
+347	Strong Bitter
+348	Zomerbier
+349	Gin flavoured
+350	Strong golden ale
+351	Blond rosée
+352	Lambic - Fruited
+353	Saision
+354	Altbier
+355	Golden ale
+356	Blond aperitiefbier
+357	Pumpkin Beer
+358	Speciale Belge
+359	Kveikbier
+360	IPA - Imperial / Double
+361	Lambic - Gueuze
+362	Spéciale Belge
+363	Bière de Champagne
+364	IPE
+365	Scottish Ale
+366	Bock - Doppelbock
+367	Barrel Aged
+368	Groen bier
+369	Dark Sour
+370	Donker/Amber
+371	Ginger Beer
+372	Braggot
+373	Sour - Farmhouse IPA
+374	Lambiek - Fruit
+375	Gruit
+376	Lambic - Kriek
+377	Lambic - Fruit
+378	Sour / Wild Beer - Dark
+379	Stout - Imperial / Double Milk
+380	Porter - American
+381	Sour - Flanders Red Ale
+382	Blond kweepeerbier
+383	Old ale
+384	Wheat Beer - Wheat Wine
+385	Non-Alcoholic Bee
+386	IPA - White
+387	Amber Apple
+388	Cream Ale
+389	Strong Ale
+390	Dunkelweizen
+391	Blond Flavored With pili pili
+392	Brown ale
+393	Beer & You
+394	Strong Pale
+395	Strong blond ale
+396	Hard Seltzer
+397	Hefeweizen
+398	Oale ale
+399	Saison Flavored
+400	Fruit beer
+401	Lambic - Traditional
+402	Grodziskie
+403	Speciale belge
+404	5.5
+405	Stout - Oatmeal
+406	Low/Non-Alcoholic Beer
+407	pils
+408	Fruitbier - krieken
+409	Strong ale amber
+410	Blond Saffraanbier
+411	Non-alcoholic
+412	Bitter Ale
+413	Low Alcoholic Beer
+414	Flemish Brown Ale
+415	Radler Non-Alcoholic
+416	English Bitter
+417	Sour/Flanders
+418	Special Pumpkin
+419	Pale Ale - Flavored
+420	Hard Ginger Beer
+421	IPA - Brett
+422	IPA - New England / Hazy
+423	Wheat Beer - Hefeweizen
+424	IPA - Session
+425	Stout - Coffee
+426	IPA - Black / Cascadian Dark Ale
+427	Koji / Ginjo Beer
+428	Zure oud bruin
+429	Mead - Braggot
+430	Lichtenhainer
+431	Sour - Fruited Gose
+432	India Pale Lager
+433	Märzen
+434	Brett Beer
+435	Lager - Red
+436	Farmhouse Ale - Saison
+437	Chilli / Chile Beer
+438	Sour - Fruited Berliner Weisse
+439	Cider - Graff
+440	Tafelbier donker
+441	Pumpkin / Yam Beer
+442	Winter Ale Donker
+443	Kolsch
+444	Fruited Berliner Weisse
+445	Strong Dark
+446	Wild ale
+447	OPA
+448	Special belge
+449	Blond Zwickelbier
+450	Rye Pale Ale
+451	Kellerbier
+452	IPA (Variant of Hopulair)
+453	Winter ale amber
+454	Mead
+455	Strong amber ale
+456	Old style Fruit-Lambic
+457	Dark Strong Ale
+458	Malt Beer
+459	Pumpkin Ale
+460	Brut
+461	Sahti
+462	Pale Ale - American (APA)
+463	Specialty Grain - Other
+464	Stout - Imperial Flavored / Pastry
+465	IPA - Hazy / New England (NEIPA)
+466	Saison / Farmhouse / Grisette
+467	IIPA DIPA - Imperial / Double Hazy (NEIPA)
+468	IPA - Red
+469	Light Beer
+470	Flavored - Chili / Peppers
+471	Bière Bru
+472	honingbier
+473	Alt
+474	Metteko Donker
+475	Session Ale
+476	Lager - Dortmunder / Export
+477	Bière  apéritive
+478	Japanese Rice Lager
+479	Non-Alcoholic Beer - IPA
+480	Wheat Beer
+481	Kvass of broodbier
+482	Japanese Rice
+483	Special
+484	Pumpkin beer
+485	Fruited Gose
+486	Saisin
+487	Strong pale
+488	Fruibier
+489	Honey beer
+490	Glühbier
+491	Herbed Ale

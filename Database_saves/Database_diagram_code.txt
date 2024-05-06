@@ -1,0 +1,31 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table beers {
+  beer_id integer [primary key]
+  beer_name varchar
+  style_id integer
+  beer_description longtext
+  abv float
+  ibu float
+  brewery_id integer
+  region varchar
+  rating float
+}
+
+Table breweries {
+  brewery_id integer [primary key]
+  brewery_name varchar
+  website varchar
+  year_established timestamp
+}
+
+Table beer_styles {
+  style_id integer [primary key]
+  style_name varchar
+  description longtext
+}
+
+Ref: breweries.brewery_id > beers.brewery_id 
+
+Ref: beers.style_id < beer_styles.style_id

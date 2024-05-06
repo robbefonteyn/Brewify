@@ -1,0 +1,492 @@
+Styles
+Blonde ale
+Donker
+Blond
+Sterke ale amber
+Sterke ale blond
+Witbier
+Fruitbier banaan
+Dubbel abdij
+Honingbier
+Sterke ale donker
+Tripel
+Dubbel
+Rood bruin
+Donkere ale
+Pils
+blond
+Amber ale
+Stout
+Ale
+Sterke ale
+IPA
+Kriek
+Bokbier
+Faro
+Strong Golden Ale
+Amber
+Scotch
+Rye Beer
+Belgian Ale - Pale / Golden
+Reinaert amber
+Pale Ale
+Fruitbier
+Laagalcoholisch blond
+Pale ale
+Laagalcoholisch
+Gueuze
+Fruitbier frambozen
+Fruitbier krieken
+Lambik
+Grape ale
+Strong Dark Ale
+Porter
+Saison
+Quadrupel
+Seizoensbier
+Blond seizoensbier
+Kruidenbier
+Kerstbier
+Massieve ale
+Gerstewijn - Barley wine - vin d'orge
+Bière de Garde
+nbekend - Unknown - Inconnu
+Wilde ale
+Barleywine
+Laag alcoholisch
+Bubbel abdij
+Fruitbier perzikken
+Sour
+Donker abdij
+Tafelbier
+Tafelbier blond
+Kerstbier blond
+Fruitbier Frambozen
+Fruitbier perziken
+Fruitbier cassis
+Zure ale
+Kerstbier donker
+Fruitbier / Radler
+Aperitiefbier
+Rookbier - Smoke beer - Bière fumée
+Laagalcoholisch donker
+Speciaal granenbier
+Dortmunder
+Sour - Flanders Oud Bruin
+Fruitbier bosvruchten
+Oud bruin
+Paasbier pils
+Kerstbier pils
+Gruut
+rood bruin
+Radler
+Grape Ale
+Lambiek
+Speciale kruidenbier
+Kerstbier amber ale
+Scotch Ale
+California Common
+Speciaal granenbier spelt
+Dubbele IPA
+Barley Wine
+Rood Bruin
+Bok
+Sterke lager
+Amber lager
+Strong dark
+Smoked Beer
+Fruitbier aardbeien
+Tripel IPA
+fruitbier
+Tripel hop
+Sour - Fruited
+Bock donker
+Alcoholvrij
+Belgische Ale
+Special Belge
+Red ale
+Engels bitter
+Speciaal zwaar bier
+Amber Winter Ale
+Kerstbier amber
+Oude Gueuze
+Bokbier donker
+Fruitbier passie en mango
+IPA Dubbel
+Fruitbier bosbessen
+Fruitbier Krieken
+Fruitbier passie
+Lager
+Fruitbier kersen
+Dubbel bruin
+Laagalcoholisch bruin
+Suikervrij blond
+Sterk blond
+Non-Alcoholic Beer
+Fruitbier pompoen
+Belgian Strong Golden Ale
+Triple
+Dubbel Abdij
+IPA dubbel
+Speciaalbier
+Sterke als blond
+Tripel hop amber
+Fruitbier appel
+Oude kriek
+Belgian Black IPA
+Oud bruin, Vlaams bruin
+Imperial Russian Stout
+Strong ale
+Gruutbier
+Winterbier
+Roodbruin
+Biere de garde
+speciaal bier
+Spiced / Herbed Beer
+Donkere IPA
+Imperial Red Ale
+American Pale Ale
+Zeer sterke ale
+Red Ale
+Alcoholarm - Low Alcohol
+Donkerblond
+Amberblond
+Eisbock
+Old Ale
+Russian Imperial Stout
+Bock
+Zure ale (Sour/Wild Ale)
+Black IPA
+IPA donker
+Double White IPA
+Wild Ale
+Blond (Belgian Ale)
+Imperial Stout
+White IPA
+Berliner Weisse
+Belgische ale
+Bockbier amber
+Grisette
+Gerijpt op houten vat
+Brandewijn
+Paasbier
+""
+Smoked - Rauchbier
+Gerstenwijn
+Sour/Wild Ale
+Belgian Strong Ale
+Experimenteel
+Donker kerstbier
+Sterk donker
+Light
+Oud Bruin
+Special ale
+Bière Brut
+Oak Aged
+Laag alcohol
+Spicy pumpkin ale
+IPA Donker
+Donkere tripel
+Imperial IPA
+Donker tarwebier
+sterke blonde ale
+Rookbier - Smoked - Rauchbier
+Rode ale
+Winterbier amber
+Gelegenheidsbier
+Gluhbier
+Winterbier donker
+IPA tripel
+IPA amber
+Donker blond
+Export
+Laag aloholisch blond
+Barley wine
+Donker winterbier
+Fruitbier - Kriek
+Scotch ale
+Bitter
+Speciaal granen
+Irish ale
+Special grain
+New England IPA
+Ierse ale
+Cognac Aged Belgium Barley Wine
+Raspberry Ale
+Fruitbier Pompoen
+Speciaal bier met wortelen
+Fruitbier frambosen
+Witbier met rode biet
+Fruitbier met meloen
+Speciaal bier
+Geuze
+Lichtblond
+Laag alcohol blond
+Champagnebier
+Rookbier
+Chocoladebier
+Kölsch
+Zwickel/Keller/Landbier
+Zwaar blond
+Saison glutenvrij
+Porter - Imperial
+Hoogblond
+Laag alcoholisch donker
+Specialty Grain
+gueuze
+Barrel aged
+Barred aged
+Vlaams rood bruin
+Brown Ale - Belgian
+Pale Lager
+Smoked
+IPA - Black / Dark
+IPA - Hazy / New England
+Leipzig Gose
+Belgian Tripel
+American Pale Ale (APA)
+Baltic Porter
+Blonde Ale
+Pale Ale - American
+Brown Ale
+German Kellerbier / Zwickelbier
+American Imperial IPA
+Pilsener
+Dark Ale
+Gruit / Ancient Herbed Ale Amber
+Barley Wine / Wheat Wine
+Sterk Blond
+IPA - Black
+IPA - Brut
+Belgian Pale Ale
+Donker speciaalbier
+Non-Alcoholic Beer Radler
+Weissbier - Dunkelweizen
+Gruit / Ancient Herbed Ale
+Fruitbier Framboos
+Spice / Herb / Vegetable
+Belgian Strong Dark Ale
+Sour/Wild Beer
+Sour/Flanders Red/Brown
+IPA - Black/Brown/Cascadian Dark
+Sour - Gose
+Saison/Grisette/Farmhouse Ale
+Strong lager
+Low alcoholic
+Red Ale / Int Amber Ale
+Sour / Wild Beer
+Low / No Alcohol Beer
+Sour - Flanders Red / Bruin
+Bruin
+Lager - Pale
+Lager - Euro Pale
+Märzen / Oktoberfest Bier
+Radler pompelmoes/grapefruit
+IPA - Belgian
+Pale Ale - Belgian
+Belgian Blonde
+Lager - American
+Bock - Single / Traditional
+Laag-alcoholisch
+Belgian Ale - Strong Pale
+European Strong Lager
+European Pale Lager
+Strong blond
+Flavored
+Schwarzbier
+Pale Lager - India / Hoppy
+Double New England IPA
+IPA - Sour / Wild
+Blackberry Baltic Porter
+Stout - Imperial
+Scottish Saison
+Flavored - Fruit
+Double IPA
+Sour / Wild Beer - Flavored
+Bock - Dunkler Bock
+ISA - Session IPA
+Fruitbier bosbessen - Fruit Beer blueberries
+Fruit Beer
+Donker koper
+IPA Black
+Gose
+Winter Ale
+Honey Beer
+Saison dark
+Stout - Imperial / Double
+Lambic
+Vlaams roodbruin
+Herb and Spice Beer
+Strong Blond
+German Hefeweizen
+English Mild Ale
+IPA - Sour
+Flanders Oud Bruin
+Spéciale du Brass'Heure
+Dark strong ale
+Winter ale
+Winter Ale blond
+Sour beer
+Traditional Ale
+Belgian Ale - Pale
+Flanders Red Ale
+Table Beer
+Low alcohol
+Belgian Dark Ale
+Strong Pale Ale
+Gluten-Free
+Strong amber
+Bière de Champagne / Bière Brut
+Non-Alcoholic
+Sour Wild beer
+Herbed Beer
+Schwarzbier / Black Lager
+Sour - Gose - Fruited
+Sour - Flanders Red
+Strong dark ale
+Sour - Berliner Weisse
+Strong Bitter
+Zomerbier
+Gin flavoured
+Strong golden ale
+Blond rosée
+Lambic - Fruited
+Saision
+Altbier
+Golden ale
+Blond aperitiefbier
+Pumpkin Beer
+Speciale Belge
+Kveikbier
+IPA - Imperial / Double
+Lambic - Gueuze
+Spéciale Belge
+Bière de Champagne
+IPE
+Scottish Ale
+Bock - Doppelbock
+Barrel Aged
+Groen bier
+Dark Sour
+Donker/Amber
+Ginger Beer
+Braggot
+Sour - Farmhouse IPA
+Lambiek - Fruit
+Gruit
+Lambic - Kriek
+Lambic - Fruit
+Sour / Wild Beer - Dark
+Stout - Imperial / Double Milk
+Porter - American
+Sour - Flanders Red Ale
+Blond kweepeerbier
+Old ale
+Wheat Beer - Wheat Wine
+Non-Alcoholic Bee
+IPA - White
+Amber Apple
+Cream Ale
+Strong Ale
+Dunkelweizen
+Blond Flavored With pili pili
+Brown ale
+Beer & You
+Strong Pale
+Strong blond ale
+Hard Seltzer
+Hefeweizen
+Oale ale
+Saison Flavored
+Fruit beer
+Lambic - Traditional
+Grodziskie
+Speciale belge
+5.5
+Stout - Oatmeal
+Low/Non-Alcoholic Beer
+pils
+Fruitbier - krieken
+Strong ale amber
+Blond Saffraanbier
+Non-alcoholic
+Bitter Ale
+Low Alcoholic Beer
+Flemish Brown Ale
+Radler Non-Alcoholic
+English Bitter
+Sour/Flanders
+Special Pumpkin
+Pale Ale - Flavored
+Hard Ginger Beer
+IPA - Brett
+IPA - New England / Hazy
+Wheat Beer - Hefeweizen
+IPA - Session
+Stout - Coffee
+IPA - Black / Cascadian Dark Ale
+Koji / Ginjo Beer
+Zure oud bruin
+Mead - Braggot
+Lichtenhainer
+Sour - Fruited Gose
+India Pale Lager
+Märzen
+Brett Beer
+Lager - Red
+Farmhouse Ale - Saison
+Chilli / Chile Beer
+Sour - Fruited Berliner Weisse
+Cider - Graff
+Tafelbier donker
+Pumpkin / Yam Beer
+Winter Ale Donker
+Kolsch
+Fruited Berliner Weisse
+Strong Dark
+Wild ale
+OPA
+Special belge
+Blond Zwickelbier
+Rye Pale Ale
+Kellerbier
+IPA (Variant of Hopulair)
+Winter ale amber
+Mead
+Strong amber ale
+Old style Fruit-Lambic
+Dark Strong Ale
+Malt Beer
+Pumpkin Ale
+Brut
+Sahti
+Pale Ale - American (APA)
+Specialty Grain - Other
+Stout - Imperial Flavored / Pastry
+IPA - Hazy / New England (NEIPA)
+Saison / Farmhouse / Grisette
+IIPA DIPA - Imperial / Double Hazy (NEIPA)
+IPA - Red
+Light Beer
+Flavored - Chili / Peppers
+Bière Bru
+honingbier
+Alt
+Metteko Donker
+Session Ale
+Lager - Dortmunder / Export
+Bière  apéritive
+Japanese Rice Lager
+Non-Alcoholic Beer - IPA
+Wheat Beer
+Kvass of broodbier
+Japanese Rice
+Special
+Pumpkin beer
+Fruited Gose
+Saisin
+Strong pale
+Fruibier
+Honey beer
+Glühbier
+Herbed Ale

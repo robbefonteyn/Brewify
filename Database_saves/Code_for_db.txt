@@ -1,0 +1,42 @@
+CREATE DATABASE Brewify;
+
+USE Brewify;
+
+CREATE TABLE beers (
+  beer_id INT PRIMARY KEY AUTO_INCREMENT,
+  beer_name VARCHAR(255) NOT NULL,
+  brewery_id INT NOT NULL,
+  style_id INT NOT NULL,
+  ibu INT,
+  abv DECIMAL(5,2),
+  location_name VARCHAR(255),
+  rating_id INT,
+  production_status VARCHAR(255),
+  FOREIGN KEY (brewery_id) REFERENCES breweries(brewery_id),
+  FOREIGN KEY (style_id) REFERENCES styles(style_id)
+);
+
+CREATE TABLE breweries (
+  brewery_id INT PRIMARY KEY AUTO_INCREMENT,
+  brewery_name VARCHAR(255) NOT NULL,
+  brewery_website VARCHAR(255)
+);
+
+CREATE TABLE styles (
+  style_id INT PRIMARY KEY AUTO_INCREMENT,
+  style_name VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE users (
+  user_id INT PRIMARY KEY AUTO_INCREMENT,
+  user_name VARCHAR(255) NOT NULL,
+  style_preference VARCHAR(255),
+  style_dislike VARCHAR(255)
+);
+
+CREATE TABLE ratings (
+  rating_id INT PRIMARY KEY AUTO_INCREMENT,
+  beer_id INT NOT NULL,
+  rating DECIMAL(2,1),
+  FOREIGN KEY (beer_id) REFERENCES beers(beer_id)
+);

@@ -1,0 +1,20097 @@
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+65 => Hoge bitterheid
+70 => Hoge bitterheid
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+11 => Weinig opvallende bitterheid
+N/A
+15 => Weinig opvallende bitterheid
+17 => Weinig opvallende bitterheid
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+75 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+13 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+37 => Bitter
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+9 => Weinig opvallende bitterheid
+8 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+75 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+9 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+19 => Weinig opvallende bitterheid
+N/A
+N/A
+11 => Weinig opvallende bitterheid
+N/A
+9 => Weinig opvallende bitterheid
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+72 => Hoge bitterheid
+N/A
+N/A
+30 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+19 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+35 => Bitter
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+71 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+48 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+45 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+70 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+32 => Bitter
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+85 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+51 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+55 => Hoge bitterheid
+40 => Bitter
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+17 => Weinig opvallende bitterheid
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+47 => Hoge bitterheid
+N/A
+35 => Bitter
+N/A
+35 => Bitter
+N/A
+N/A
+56 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+45 => Hoge bitterheid
+19 => Weinig opvallende bitterheid
+27 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+34 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+67 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+43 => Hoge bitterheid
+44 => Hoge bitterheid
+44 => Hoge bitterheid
+68 => Hoge bitterheid
+N/A
+N/A
+72 => Hoge bitterheid
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+47 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+52 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+44 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+35 => Bitter
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+76 => Hoge bitterheid
+44 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+36 => Bitter
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+19 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+35 => Bitter
+45 => Hoge bitterheid
+100 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+80 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+62 => Hoge bitterheid
+52 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+13 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+N/A
+26 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+140 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+110 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+45 => Hoge bitterheid
+53 => Hoge bitterheid
+N/A
+N/A
+34 => Bitter
+63 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+45 => Hoge bitterheid
+45 => Hoge bitterheid
+35 => Bitter
+24 => Bitterheid is merkbaar
+40 => Bitter
+30 => Bitterheid is merkbaar
+10 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+51 => Hoge bitterheid
+43 => Hoge bitterheid
+40 => Bitter
+25 => Bitterheid is merkbaar
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+30 => Bitterheid is merkbaar
+67 => Hoge bitterheid
+N/A
+42 => Hoge bitterheid
+33 => Bitter
+N/A
+N/A
+40 => Bitter
+N/A
+37 => Bitter
+52 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+55 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+60 => Hoge bitterheid
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+35 => Bitter
+N/A
+37 => Bitter
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+12 => Weinig opvallende bitterheid
+10 => Weinig opvallende bitterheid
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+28 => Bitterheid is merkbaar
+29 => Bitterheid is merkbaar
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+50 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+42 => Hoge bitterheid
+41 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+8 => Weinig opvallende bitterheid
+N/A
+38 => Bitter
+N/A
+35 => Bitter
+35 => Bitter
+N/A
+N/A
+40 => Bitter
+34 => Bitter
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+93 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+70 => Hoge bitterheid
+45 => Hoge bitterheid
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+59 => Hoge bitterheid
+23 => Bitterheid is merkbaar
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+37 => Bitter
+63 => Hoge bitterheid
+69 => Hoge bitterheid
+N/A
+34 => Bitter
+34 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+37 => Bitter
+N/A
+72 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+N/A
+15 => Weinig opvallende bitterheid
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+10 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+46 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+27 => Bitterheid is merkbaar
+63 => Hoge bitterheid
+33 => Bitter
+50 => Hoge bitterheid
+43 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+55 => Hoge bitterheid
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+42 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+32 => Bitter
+25 => Bitterheid is merkbaar
+N/A
+N/A
+7 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+54 => Hoge bitterheid
+N/A
+N/A
+N/A
+13 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+53 => Hoge bitterheid
+93 => Hoge bitterheid
+76 => Hoge bitterheid
+76 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+33 => Bitter
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+60 => Hoge bitterheid
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+354 => Hoge bitterheid
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+24 => Bitterheid is merkbaar
+N/A
+20 => Weinig opvallende bitterheid
+80 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+40 => Bitter
+20 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+50 => Hoge bitterheid
+45 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+82 => Hoge bitterheid
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+N/A
+N/A
+26 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+25 => Bitterheid is merkbaar
+35 => Bitter
+35 => Bitter
+35 => Bitter
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+72 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+70 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+65 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+17 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+32 => Bitter
+51 => Hoge bitterheid
+14 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+70 => Hoge bitterheid
+70 => Hoge bitterheid
+71 => Hoge bitterheid
+39 => Bitter
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+20 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+38 => Bitter
+26 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+16 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+19 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+40 => Bitter
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+59 => Hoge bitterheid
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+26 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+12 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+N/A
+38 => Bitter
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+13 => Weinig opvallende bitterheid
+29 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+38 => Bitter
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+37 => Bitter
+19 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+35 => Bitter
+27 => Bitterheid is merkbaar
+34 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+24 => Bitterheid is merkbaar
+10 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+30 => Bitterheid is merkbaar
+54 => Hoge bitterheid
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+50 => Hoge bitterheid
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+70 => Hoge bitterheid
+50 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+10 => Weinig opvallende bitterheid
+45 => Hoge bitterheid
+70 => Hoge bitterheid
+N/A
+70 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+41 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+40 => Bitter
+20 => Weinig opvallende bitterheid
+60 => Hoge bitterheid
+80 => Hoge bitterheid
+40 => Bitter
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+10 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+64 => Hoge bitterheid
+96 => Hoge bitterheid
+18 => Weinig opvallende bitterheid
+24 => Bitterheid is merkbaar
+12 => Weinig opvallende bitterheid
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+32 => Bitter
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+37 => Bitter
+25 => Bitterheid is merkbaar
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+61 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+39 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+30 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+35 => Bitter
+30 => Bitterheid is merkbaar
+40 => Bitter
+8 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+85 => Hoge bitterheid
+40 => Bitter
+3 => Weinig opvallende bitterheid
+60 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+24 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+45 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+19 => Weinig opvallende bitterheid
+14 => Weinig opvallende bitterheid
+14 => Weinig opvallende bitterheid
+19 => Weinig opvallende bitterheid
+35 => Bitter
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+14 => Weinig opvallende bitterheid
+40 => Bitter
+20 => Weinig opvallende bitterheid
+40 => Bitter
+17 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+50 => Hoge bitterheid
+45 => Hoge bitterheid
+45 => Hoge bitterheid
+35 => Bitter
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+52 => Hoge bitterheid
+52 => Hoge bitterheid
+N/A
+33 => Bitter
+36 => Bitter
+30 => Bitterheid is merkbaar
+58 => Hoge bitterheid
+51 => Hoge bitterheid
+58 => Hoge bitterheid
+36 => Bitter
+33 => Bitter
+33 => Bitter
+36 => Bitter
+53 => Hoge bitterheid
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+22 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+32 => Bitter
+50 => Hoge bitterheid
+33 => Bitter
+25 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+30 => Bitterheid is merkbaar
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+37 => Bitter
+28 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+N/A
+33 => Bitter
+N/A
+N/A
+78 => Hoge bitterheid
+32 => Bitter
+108 => Hoge bitterheid
+45 => Hoge bitterheid
+78 => Hoge bitterheid
+100 => Hoge bitterheid
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+52 => Hoge bitterheid
+65 => Hoge bitterheid
+45 => Hoge bitterheid
+145 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+57 => Hoge bitterheid
+21 => Bitterheid is merkbaar
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+40 => Bitter
+60 => Hoge bitterheid
+N/A
+30 => Bitterheid is merkbaar
+35 => Bitter
+15 => Weinig opvallende bitterheid
+64 => Hoge bitterheid
+130 => Hoge bitterheid
+55 => Hoge bitterheid
+49 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+40 => Bitter
+39 => Bitter
+60 => Hoge bitterheid
+15 => Weinig opvallende bitterheid
+N/A
+64 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+32 => Bitter
+32 => Bitter
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+11 => Weinig opvallende bitterheid
+11 => Weinig opvallende bitterheid
+11 => Weinig opvallende bitterheid
+11 => Weinig opvallende bitterheid
+27 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+52 => Hoge bitterheid
+26 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+18 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+37 => Bitter
+37 => Bitter
+62 => Hoge bitterheid
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+45 => Hoge bitterheid
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+71 => Hoge bitterheid
+N/A
+24 => Bitterheid is merkbaar
+33 => Bitter
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+66 => Hoge bitterheid
+43 => Hoge bitterheid
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+75 => Hoge bitterheid
+N/A
+N/A
+85 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+22 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+13 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+43 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+38 => Bitter
+20 => Weinig opvallende bitterheid
+22 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+40 => Bitter
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+18 => Weinig opvallende bitterheid
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+94 => Hoge bitterheid
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+80 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+13 => Weinig opvallende bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+2 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+75 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+13 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+35 => Bitter
+49 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+19 => Weinig opvallende bitterheid
+21 => Bitterheid is merkbaar
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+50 => Hoge bitterheid
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+35 => Bitter
+37 => Bitter
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+45 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+40 => Bitter
+N/A
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+55 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+29 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+29 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+24 => Bitterheid is merkbaar
+33 => Bitter
+40 => Bitter
+45 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+44 => Hoge bitterheid
+N/A
+N/A
+42 => Hoge bitterheid
+43 => Hoge bitterheid
+100 => Hoge bitterheid
+28 => Bitterheid is merkbaar
+33 => Bitter
+55 => Hoge bitterheid
+48 => Hoge bitterheid
+27 => Bitterheid is merkbaar
+35 => Bitter
+23 => Bitterheid is merkbaar
+37 => Bitter
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+44 => Hoge bitterheid
+18 => Weinig opvallende bitterheid
+N/A
+30 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+23 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+59 => Hoge bitterheid
+39 => Bitter
+61 => Hoge bitterheid
+59 => Hoge bitterheid
+56 => Hoge bitterheid
+46 => Hoge bitterheid
+60 => Hoge bitterheid
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+37 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+36 => Bitter
+26 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+24 => Bitterheid is merkbaar
+31 => Bitter
+37 => Bitter
+49 => Hoge bitterheid
+36 => Bitter
+62 => Hoge bitterheid
+13 => Weinig opvallende bitterheid
+64 => Hoge bitterheid
+26 => Bitterheid is merkbaar
+49 => Hoge bitterheid
+70 => Hoge bitterheid
+24 => Bitterheid is merkbaar
+40 => Bitter
+64 => Hoge bitterheid
+58 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+35 => Bitter
+N/A
+N/A
+45 => Hoge bitterheid
+32 => Bitter
+56 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+50 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+28 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+80 => Hoge bitterheid
+15 => Weinig opvallende bitterheid
+70 => Hoge bitterheid
+N/A
+32 => Bitter
+N/A
+N/A
+73 => Hoge bitterheid
+24 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+45 => Hoge bitterheid
+N/A
+25 => Bitterheid is merkbaar
+100 => Hoge bitterheid
+43 => Hoge bitterheid
+N/A
+N/A
+N/A
+35 => Bitter
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+40 => Bitter
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+2 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+58 => Hoge bitterheid
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+14 => Weinig opvallende bitterheid
+N/A
+29 => Bitterheid is merkbaar
+N/A
+25 => Bitterheid is merkbaar
+86 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+56 => Hoge bitterheid
+32 => Bitter
+30 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+4 => Weinig opvallende bitterheid
+21 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+50 => Hoge bitterheid
+15 => Weinig opvallende bitterheid
+N/A
+24 => Bitterheid is merkbaar
+9 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+N/A
+24 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+99 => Hoge bitterheid
+29 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+72 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+46 => Hoge bitterheid
+50 => Hoge bitterheid
+N/A
+N/A
+40 => Bitter
+N/A
+48 => Hoge bitterheid
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+43 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+N/A
+24 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+59 => Hoge bitterheid
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+300 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+22 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+53 => Hoge bitterheid
+44 => Hoge bitterheid
+100 => Hoge bitterheid
+100 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+71 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+41 => Hoge bitterheid
+28 => Bitterheid is merkbaar
+60 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+69 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+33 => Bitter
+28 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+59 => Hoge bitterheid
+48 => Hoge bitterheid
+54 => Hoge bitterheid
+62 => Hoge bitterheid
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+30 => Bitterheid is merkbaar
+60 => Hoge bitterheid
+35 => Bitter
+35 => Bitter
+30 => Bitterheid is merkbaar
+35 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+70 => Hoge bitterheid
+35 => Bitter
+35 => Bitter
+35 => Bitter
+N/A
+70 => Hoge bitterheid
+65 => Hoge bitterheid
+75 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+26 => Bitterheid is merkbaar
+31 => Bitter
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+80 => Hoge bitterheid
+N/A
+N/A
+53 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+110 => Hoge bitterheid
+8 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+67 => Hoge bitterheid
+70 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+35 => Bitter
+2 => Weinig opvallende bitterheid
+51 => Hoge bitterheid
+60 => Hoge bitterheid
+60 => Hoge bitterheid
+32 => Bitter
+40 => Bitter
+70 => Hoge bitterheid
+N/A
+8 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+53 => Hoge bitterheid
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+19 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+40 => Bitter
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+35 => Bitter
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+11 => Weinig opvallende bitterheid
+N/A
+52 => Hoge bitterheid
+44 => Hoge bitterheid
+84 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+45 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+44 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+22 => Bitterheid is merkbaar
+84 => Hoge bitterheid
+39 => Bitter
+25 => Bitterheid is merkbaar
+54 => Hoge bitterheid
+36 => Bitter
+35 => Bitter
+26 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+40 => Bitter
+40 => Bitter
+20 => Weinig opvallende bitterheid
+40 => Bitter
+35 => Bitter
+22 => Bitterheid is merkbaar
+6 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+55 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+50 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+6 => Weinig opvallende bitterheid
+5 => Weinig opvallende bitterheid
+50 => Hoge bitterheid
+60 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+40 => Bitter
+34 => Bitter
+70 => Hoge bitterheid
+35 => Bitter
+52 => Hoge bitterheid
+50 => Hoge bitterheid
+24 => Bitterheid is merkbaar
+32 => Bitter
+38 => Bitter
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+54 => Hoge bitterheid
+45 => Hoge bitterheid
+N/A
+33 => Bitter
+30 => Bitterheid is merkbaar
+32 => Bitter
+32 => Bitter
+32 => Bitter
+32 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+27 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+40 => Bitter
+18 => Weinig opvallende bitterheid
+27 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+35 => Bitter
+35 => Bitter
+6 => Weinig opvallende bitterheid
+45 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+40 => Bitter
+15 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+33 => Bitter
+32 => Bitter
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+35 => Bitter
+44 => Hoge bitterheid
+N/A
+25 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+42 => Hoge bitterheid
+23 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+35 => Bitter
+35 => Bitter
+55 => Hoge bitterheid
+N/A
+N/A
+25 => Bitterheid is merkbaar
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+40 => Bitter
+30 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+47 => Hoge bitterheid
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+200 => Hoge bitterheid
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+46 => Hoge bitterheid
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+41 => Hoge bitterheid
+45 => Hoge bitterheid
+70 => Hoge bitterheid
+55 => Hoge bitterheid
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+42 => Hoge bitterheid
+35 => Bitter
+42 => Hoge bitterheid
+42 => Hoge bitterheid
+42 => Hoge bitterheid
+35 => Bitter
+35 => Bitter
+35 => Bitter
+30 => Bitterheid is merkbaar
+33 => Bitter
+33 => Bitter
+33 => Bitter
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+56 => Hoge bitterheid
+35 => Bitter
+28 => Bitterheid is merkbaar
+N/A
+32 => Bitter
+32 => Bitter
+65 => Hoge bitterheid
+57 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+40 => Bitter
+40 => Bitter
+30 => Bitterheid is merkbaar
+14 => Weinig opvallende bitterheid
+42 => Hoge bitterheid
+13 => Weinig opvallende bitterheid
+26 => Bitterheid is merkbaar
+N/A
+28 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+40 => Bitter
+36 => Bitter
+22 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+33 => Bitter
+24 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+33 => Bitter
+N/A
+27 => Bitterheid is merkbaar
+N/A
+34 => Bitter
+28 => Bitterheid is merkbaar
+35 => Bitter
+30 => Bitterheid is merkbaar
+35 => Bitter
+25 => Bitterheid is merkbaar
+N/A
+23 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+32 => Bitter
+25 => Bitterheid is merkbaar
+35 => Bitter
+25 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+25 => Bitterheid is merkbaar
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+21 => Bitterheid is merkbaar
+N/A
+25 => Bitterheid is merkbaar
+13 => Weinig opvallende bitterheid
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+21 => Bitterheid is merkbaar
+N/A
+32 => Bitter
+37 => Bitter
+22 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+30 => Bitterheid is merkbaar
+7 => Weinig opvallende bitterheid
+N/A
+10 => Weinig opvallende bitterheid
+7 => Weinig opvallende bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+37 => Bitter
+36 => Bitter
+N/A
+48 => Hoge bitterheid
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+32 => Bitter
+18 => Weinig opvallende bitterheid
+32 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+2 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+40 => Bitter
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+60 => Hoge bitterheid
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+43 => Hoge bitterheid
+38 => Bitter
+39 => Bitter
+22 => Bitterheid is merkbaar
+45 => Hoge bitterheid
+8 => Weinig opvallende bitterheid
+36 => Bitter
+42 => Hoge bitterheid
+45 => Hoge bitterheid
+48 => Hoge bitterheid
+48 => Hoge bitterheid
+48 => Hoge bitterheid
+48 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+56 => Hoge bitterheid
+34 => Bitter
+50 => Hoge bitterheid
+36 => Bitter
+N/A
+16 => Weinig opvallende bitterheid
+65 => Hoge bitterheid
+40 => Bitter
+18 => Weinig opvallende bitterheid
+14 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+12 => Weinig opvallende bitterheid
+26 => Bitterheid is merkbaar
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+100 => Hoge bitterheid
+N/A
+N/A
+145 => Hoge bitterheid
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+41 => Hoge bitterheid
+N/A
+N/A
+N/A
+47 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+22 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+40 => Bitter
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+40 => Bitter
+28 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+33 => Bitter
+9 => Weinig opvallende bitterheid
+24 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+N/A
+28 => Bitterheid is merkbaar
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+62 => Hoge bitterheid
+50 => Hoge bitterheid
+43 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+77 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+32 => Bitter
+N/A
+30 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+29 => Bitterheid is merkbaar
+N/A
+40 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+60 => Hoge bitterheid
+N/A
+N/A
+95 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+47 => Hoge bitterheid
+69 => Hoge bitterheid
+38 => Bitter
+58 => Hoge bitterheid
+45 => Hoge bitterheid
+40 => Bitter
+40 => Bitter
+15 => Weinig opvallende bitterheid
+N/A
+83 => Hoge bitterheid
+N/A
+35 => Bitter
+N/A
+77 => Hoge bitterheid
+N/A
+37 => Bitter
+16 => Weinig opvallende bitterheid
+16 => Weinig opvallende bitterheid
+16 => Weinig opvallende bitterheid
+16 => Weinig opvallende bitterheid
+24 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+36 => Bitter
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+55 => Hoge bitterheid
+29 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+27 => Bitterheid is merkbaar
+32 => Bitter
+28 => Bitterheid is merkbaar
+32 => Bitter
+12 => Weinig opvallende bitterheid
+55 => Hoge bitterheid
+12 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+50 => Hoge bitterheid
+50 => Hoge bitterheid
+50 => Hoge bitterheid
+50 => Hoge bitterheid
+39 => Bitter
+50 => Hoge bitterheid
+50 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+26 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+63 => Hoge bitterheid
+65 => Hoge bitterheid
+40 => Bitter
+N/A
+40 => Bitter
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+23 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+60 => Hoge bitterheid
+68 => Hoge bitterheid
+14 => Weinig opvallende bitterheid
+N/A
+23 => Bitterheid is merkbaar
+34 => Bitter
+56 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+36 => Bitter
+75 => Hoge bitterheid
+51 => Hoge bitterheid
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+N/A
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+4 => Weinig opvallende bitterheid
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+35 => Bitter
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+26 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+43 => Hoge bitterheid
+41 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+49 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+60 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+50 => Hoge bitterheid
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+11 => Weinig opvallende bitterheid
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+100 => Hoge bitterheid
+N/A
+12 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+90 => Hoge bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+45 => Hoge bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+57 => Hoge bitterheid
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+13 => Weinig opvallende bitterheid
+N/A
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+37 => Bitter
+35 => Bitter
+36 => Bitter
+10 => Weinig opvallende bitterheid
+N/A
+8 => Weinig opvallende bitterheid
+9 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+65 => Hoge bitterheid
+6 => Weinig opvallende bitterheid
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+30 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+58 => Hoge bitterheid
+N/A
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+75 => Hoge bitterheid
+N/A
+N/A
+43 => Hoge bitterheid
+68 => Hoge bitterheid
+50 => Hoge bitterheid
+45 => Hoge bitterheid
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+100 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+73 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+82 => Hoge bitterheid
+N/A
+72 => Hoge bitterheid
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+70 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+65 => Hoge bitterheid
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+38 => Bitter
+38 => Bitter
+38 => Bitter
+45 => Hoge bitterheid
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+5 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+18 => Weinig opvallende bitterheid
+2 => Weinig opvallende bitterheid
+10 => Weinig opvallende bitterheid
+10 => Weinig opvallende bitterheid
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+38 => Bitter
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+40 => Bitter
+60 => Hoge bitterheid
+35 => Bitter
+24 => Bitterheid is merkbaar
+9 => Weinig opvallende bitterheid
+50 => Hoge bitterheid
+50 => Hoge bitterheid
+N/A
+40 => Bitter
+35 => Bitter
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+25 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+16 => Weinig opvallende bitterheid
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+35 => Bitter
+40 => Bitter
+20 => Weinig opvallende bitterheid
+N/A
+27 => Bitterheid is merkbaar
+35 => Bitter
+35 => Bitter
+24 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+66 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+40 => Bitter
+N/A
+4 => Weinig opvallende bitterheid
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+29 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+42 => Hoge bitterheid
+52 => Hoge bitterheid
+51 => Hoge bitterheid
+80 => Hoge bitterheid
+35 => Bitter
+30 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+32 => Bitter
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+40 => Bitter
+126 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+26 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+52 => Hoge bitterheid
+55 => Hoge bitterheid
+65 => Hoge bitterheid
+70 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+40 => Bitter
+25 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+27 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+39 => Bitter
+N/A
+N/A
+44 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+30 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+40 => Bitter
+25 => Bitterheid is merkbaar
+40 => Bitter
+40 => Bitter
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+45 => Hoge bitterheid
+45 => Hoge bitterheid
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+35 => Bitter
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+25 => Bitterheid is merkbaar
+35 => Bitter
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+5 => Weinig opvallende bitterheid
+5 => Weinig opvallende bitterheid
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+3 => Weinig opvallende bitterheid
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+70 => Hoge bitterheid
+35 => Bitter
+32 => Bitter
+21 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+32 => Bitter
+28 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+49 => Hoge bitterheid
+65 => Hoge bitterheid
+42 => Hoge bitterheid
+60 => Hoge bitterheid
+35 => Bitter
+28 => Bitterheid is merkbaar
+32 => Bitter
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+66 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+40 => Bitter
+N/A
+22 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+65 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+45 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+40 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+N/A
+50 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+37 => Bitter
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+63 => Hoge bitterheid
+N/A
+25 => Bitterheid is merkbaar
+11 => Weinig opvallende bitterheid
+40 => Bitter
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+13 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+48 => Hoge bitterheid
+37 => Bitter
+3 => Weinig opvallende bitterheid
+55 => Hoge bitterheid
+45 => Hoge bitterheid
+39 => Bitter
+56 => Hoge bitterheid
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+6 => Weinig opvallende bitterheid
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+35 => Bitter
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+13 => Weinig opvallende bitterheid
+19 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+N/A
+19 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+13 => Weinig opvallende bitterheid
+23 => Bitterheid is merkbaar
+36 => Bitter
+46 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+23 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+100 => Hoge bitterheid
+65 => Hoge bitterheid
+55 => Hoge bitterheid
+50 => Hoge bitterheid
+N/A
+N/A
+35 => Bitter
+200 => Hoge bitterheid
+50 => Hoge bitterheid
+80 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+75 => Hoge bitterheid
+75 => Hoge bitterheid
+50 => Hoge bitterheid
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+100 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+68 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+28 => Bitterheid is merkbaar
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+32 => Bitter
+34 => Bitter
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+70 => Hoge bitterheid
+N/A
+35 => Bitter
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+43 => Hoge bitterheid
+43 => Hoge bitterheid
+68 => Hoge bitterheid
+68 => Hoge bitterheid
+56 => Hoge bitterheid
+50 => Hoge bitterheid
+43 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+125 => Hoge bitterheid
+40 => Bitter
+95 => Hoge bitterheid
+26 => Bitterheid is merkbaar
+55 => Hoge bitterheid
+29 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+46 => Hoge bitterheid
+51 => Hoge bitterheid
+42 => Hoge bitterheid
+57 => Hoge bitterheid
+54 => Hoge bitterheid
+51 => Hoge bitterheid
+35 => Bitter
+N/A
+12 => Weinig opvallende bitterheid
+60 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+57 => Hoge bitterheid
+44 => Hoge bitterheid
+75 => Hoge bitterheid
+50 => Hoge bitterheid
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+32 => Bitter
+32 => Bitter
+32 => Bitter
+15 => Weinig opvallende bitterheid
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+14 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+33 => Bitter
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+40 => Bitter
+22 => Bitterheid is merkbaar
+12 => Weinig opvallende bitterheid
+N/A
+12 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+57 => Hoge bitterheid
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+24 => Bitterheid is merkbaar
+9 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+7 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+23 => Bitterheid is merkbaar
+22 => Bitterheid is merkbaar
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+39 => Bitter
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+55 => Hoge bitterheid
+34 => Bitter
+30 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+N/A
+35 => Bitter
+60 => Hoge bitterheid
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+32 => Bitter
+34 => Bitter
+N/A
+N/A
+N/A
+32 => Bitter
+45 => Hoge bitterheid
+N/A
+22 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+56 => Hoge bitterheid
+18 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+29 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+56 => Hoge bitterheid
+N/A
+15 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+34 => Bitter
+14 => Weinig opvallende bitterheid
+36 => Bitter
+35 => Bitter
+36 => Bitter
+14 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+34 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+44 => Hoge bitterheid
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+39 => Bitter
+N/A
+43 => Hoge bitterheid
+26 => Bitterheid is merkbaar
+29 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+70 => Hoge bitterheid
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+47 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+90 => Hoge bitterheid
+N/A
+N/A
+25 => Bitterheid is merkbaar
+50 => Hoge bitterheid
+29 => Bitterheid is merkbaar
+29 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+70 => Hoge bitterheid
+52 => Hoge bitterheid
+60 => Hoge bitterheid
+70 => Hoge bitterheid
+57 => Hoge bitterheid
+50 => Hoge bitterheid
+83 => Hoge bitterheid
+59 => Hoge bitterheid
+58 => Hoge bitterheid
+60 => Hoge bitterheid
+50 => Hoge bitterheid
+27 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+106 => Hoge bitterheid
+55 => Hoge bitterheid
+52 => Hoge bitterheid
+27 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+33 => Bitter
+24 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+51 => Hoge bitterheid
+50 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+35 => Bitter
+32 => Bitter
+42 => Hoge bitterheid
+26 => Bitterheid is merkbaar
+14 => Weinig opvallende bitterheid
+70 => Hoge bitterheid
+26 => Bitterheid is merkbaar
+13 => Weinig opvallende bitterheid
+24 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+37 => Bitter
+60 => Hoge bitterheid
+15 => Weinig opvallende bitterheid
+100 => Hoge bitterheid
+51 => Hoge bitterheid
+N/A
+37 => Bitter
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+26 => Bitterheid is merkbaar
+N/A
+33 => Bitter
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+43 => Hoge bitterheid
+N/A
+N/A
+N/A
+43 => Hoge bitterheid
+N/A
+24 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+22 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+69 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+18 => Weinig opvallende bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+22 => Bitterheid is merkbaar
+N/A
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+46 => Hoge bitterheid
+47 => Hoge bitterheid
+50 => Hoge bitterheid
+35 => Bitter
+10 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+70 => Hoge bitterheid
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+48 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+40 => Bitter
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+41 => Hoge bitterheid
+N/A
+21 => Bitterheid is merkbaar
+41 => Hoge bitterheid
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+N/A
+22 => Bitterheid is merkbaar
+N/A
+40 => Bitter
+41 => Hoge bitterheid
+N/A
+46 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+46 => Hoge bitterheid
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+68 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+20 => Weinig opvallende bitterheid
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+57 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+28 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+75 => Hoge bitterheid
+N/A
+29 => Bitterheid is merkbaar
+55 => Hoge bitterheid
+88 => Hoge bitterheid
+37 => Bitter
+20 => Weinig opvallende bitterheid
+N/A
+32 => Bitter
+78 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+42 => Hoge bitterheid
+6 => Weinig opvallende bitterheid
+54 => Hoge bitterheid
+28 => Bitterheid is merkbaar
+78 => Hoge bitterheid
+36 => Bitter
+14 => Weinig opvallende bitterheid
+44 => Hoge bitterheid
+40 => Bitter
+37 => Bitter
+61 => Hoge bitterheid
+33 => Bitter
+22 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+N/A
+6 => Weinig opvallende bitterheid
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+52 => Hoge bitterheid
+35 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+40 => Bitter
+35 => Bitter
+35 => Bitter
+27 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+18 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+40 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+N/A
+45 => Hoge bitterheid
+35 => Bitter
+N/A
+N/A
+35 => Bitter
+15 => Weinig opvallende bitterheid
+18 => Weinig opvallende bitterheid
+40 => Bitter
+N/A
+N/A
+25 => Bitterheid is merkbaar
+7 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+27 => Bitterheid is merkbaar
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+59 => Hoge bitterheid
+34 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+40 => Bitter
+35 => Bitter
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+53 => Hoge bitterheid
+N/A
+60 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+15 => Weinig opvallende bitterheid
+10 => Weinig opvallende bitterheid
+45 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+29 => Bitterheid is merkbaar
+N/A
+N/A
+25 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+40 => Bitter
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+14 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+28 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+37 => Bitter
+37 => Bitter
+50 => Hoge bitterheid
+67 => Hoge bitterheid
+50 => Hoge bitterheid
+45 => Hoge bitterheid
+31 => Bitter
+57 => Hoge bitterheid
+44 => Hoge bitterheid
+N/A
+N/A
+N/A
+26 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+4 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+33 => Bitter
+34 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+36 => Bitter
+N/A
+33 => Bitter
+35 => Bitter
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+75 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+35 => Bitter
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+39 => Bitter
+11 => Weinig opvallende bitterheid
+11 => Weinig opvallende bitterheid
+11 => Weinig opvallende bitterheid
+51 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+N/A
+48 => Hoge bitterheid
+30 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+11 => Weinig opvallende bitterheid
+95 => Hoge bitterheid
+N/A
+N/A
+N/A
+33 => Bitter
+32 => Bitter
+N/A
+N/A
+33 => Bitter
+33 => Bitter
+N/A
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+10 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+12 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+45 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+N/A
+15 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+22 => Bitterheid is merkbaar
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+31 => Bitter
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+41 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+32 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+11 => Weinig opvallende bitterheid
+35 => Bitter
+31 => Bitter
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+100 => Hoge bitterheid
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+44 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+42 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+40 => Bitter
+20 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+32 => Bitter
+32 => Bitter
+22 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+23 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+27 => Bitterheid is merkbaar
+52 => Hoge bitterheid
+35 => Bitter
+34 => Bitter
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+100 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+45 => Hoge bitterheid
+22 => Bitterheid is merkbaar
+28 => Bitterheid is merkbaar
+18 => Weinig opvallende bitterheid
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+35 => Bitter
+24 => Bitterheid is merkbaar
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+42 => Hoge bitterheid
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+40 => Bitter
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+24 => Bitterheid is merkbaar
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+100 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+7 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+35 => Bitter
+N/A
+N/A
+28 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+N/A
+N/A
+32 => Bitter
+30 => Bitterheid is merkbaar
+N/A
+27 => Bitterheid is merkbaar
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+22 => Bitterheid is merkbaar
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+41 => Hoge bitterheid
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+21 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+11 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+100 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+9 => Weinig opvallende bitterheid
+13 => Weinig opvallende bitterheid
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+31 => Bitter
+10 => Weinig opvallende bitterheid
+32 => Bitter
+40 => Bitter
+35 => Bitter
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+40 => Bitter
+35 => Bitter
+25 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+32 => Bitter
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+35 => Bitter
+N/A
+30 => Bitterheid is merkbaar
+35 => Bitter
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+35 => Bitter
+50 => Hoge bitterheid
+28 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+31 => Bitter
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+4 => Weinig opvallende bitterheid
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+38 => Bitter
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+35 => Bitter
+N/A
+30 => Bitterheid is merkbaar
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+37 => Bitter
+N/A
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+9 => Weinig opvallende bitterheid
+N/A
+N/A
+40 => Bitter
+30 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+70 => Hoge bitterheid
+80 => Hoge bitterheid
+40 => Bitter
+34 => Bitter
+65 => Hoge bitterheid
+70 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+16 => Weinig opvallende bitterheid
+27 => Bitterheid is merkbaar
+5 => Weinig opvallende bitterheid
+7 => Weinig opvallende bitterheid
+35 => Bitter
+45 => Hoge bitterheid
+37 => Bitter
+2 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+21 => Bitterheid is merkbaar
+33 => Bitter
+N/A
+70 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+75 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+34 => Bitter
+61 => Hoge bitterheid
+42 => Hoge bitterheid
+20 => Weinig opvallende bitterheid
+8 => Weinig opvallende bitterheid
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+N/A
+100 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+34 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+65 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+26 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+9 => Weinig opvallende bitterheid
+74 => Hoge bitterheid
+75 => Hoge bitterheid
+70 => Hoge bitterheid
+34 => Bitter
+59 => Hoge bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+39 => Bitter
+9 => Weinig opvallende bitterheid
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+31 => Bitter
+44 => Hoge bitterheid
+27 => Bitterheid is merkbaar
+17 => Weinig opvallende bitterheid
+39 => Bitter
+39 => Bitter
+34 => Bitter
+28 => Bitterheid is merkbaar
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+73 => Hoge bitterheid
+33 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+33 => Bitter
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+46 => Hoge bitterheid
+N/A
+N/A
+N/A
+46 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+45 => Hoge bitterheid
+45 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+15 => Weinig opvallende bitterheid
+23 => Bitterheid is merkbaar
+26 => Bitterheid is merkbaar
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+17 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+35 => Bitter
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+31 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+29 => Bitterheid is merkbaar
+20 => Weinig opvallende bitterheid
+8 => Weinig opvallende bitterheid
+N/A
+N/A
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+5 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+300 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+11 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+15 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+30 => Bitterheid is merkbaar
+N/A
+68 => Hoge bitterheid
+N/A
+N/A
+19 => Weinig opvallende bitterheid
+29 => Bitterheid is merkbaar
+39 => Bitter
+35 => Bitter
+18 => Weinig opvallende bitterheid
+43 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+20 => Weinig opvallende bitterheid
+N/A
+15 => Weinig opvallende bitterheid
+30 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+24 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+N/A
+N/A
+18 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+8 => Weinig opvallende bitterheid
+N/A
+N/A
+13 => Weinig opvallende bitterheid
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+29 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+22 => Bitterheid is merkbaar
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+45 => Hoge bitterheid
+N/A
+N/A
+37 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+16 => Weinig opvallende bitterheid
+40 => Bitter
+40 => Bitter
+40 => Bitter
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+40 => Bitter
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+72 => Hoge bitterheid
+N/A
+N/A
+43 => Hoge bitterheid
+N/A
+N/A
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+28 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+41 => Hoge bitterheid
+N/A
+27 => Bitterheid is merkbaar
+72 => Hoge bitterheid
+N/A
+27 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+72 => Hoge bitterheid
+N/A
+12 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+10 => Weinig opvallende bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+50 => Hoge bitterheid
+N/A
+N/A
+N/A
+36 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+30 => Bitterheid is merkbaar
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+200 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+85 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+23 => Bitterheid is merkbaar
+N/A
+20 => Weinig opvallende bitterheid
+31 => Bitter
+N/A
+N/A
+N/A
+35 => Bitter
+N/A
+40 => Bitter
+N/A
+N/A
+N/A
+N/A
+N/A
+60 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+25 => Bitterheid is merkbaar
+N/A
+60 => Hoge bitterheid
+55 => Hoge bitterheid
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A

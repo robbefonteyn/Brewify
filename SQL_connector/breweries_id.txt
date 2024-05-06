@@ -1,0 +1,1088 @@
+178	Brasserie de l’Abbaye des Rocs
+179	Huisbier
+180	De Achelse Kluis - Achel
+181	Smisje
+182	Bosteels
+183	Authentique
+184	De Graal
+185	Aarschot
+186	Brasserie Taverne de l'Abbaye d'Aulne/Val de Sambre
+187	De Block
+188	Kerkom
+189	Haacht
+190	Roman
+191	Affligem
+192	Alken-Maes
+193	Alvinne
+194	Slaghmuylder
+195	Huyghe
+196	De Koninck
+197	De Dolle Brouwers
+198	Van Steenberge
+199	Proefbrouwerij
+200	VIBB
+201	De Brabandere - voorheen Bavik
+202	Caracole
+203	3 Fonteinen
+204	Duvel Moortgat
+205	Achouffe
+206	Uncharted Brew Co
+207	Detrembleur SPRL
+208	Monalixa
+209	Het Anker
+210	Artisans Brasseurs/Brasserie Mibrana
+211	AB InBev
+212	Hoegaarden
+213	Lamot - gestopt in 2000
+214	Brasserie Piedboeuf
+215	Dendria - gestopt in 1963
+216	Belle-Vue
+217	Boon
+218	HopHemel
+219	De Boeretang GCV
+220	La Binchoise
+221	De Bie
+222	Gistgeest
+223	Bouillon
+224	Fantome
+225	L'Abbaye N.D. de Scourmont - Chimay
+226	Abbaye Saint-Rémy - Rochefort
+227	Westmalle
+228	Abdij Sint-Sixtus Westvleteren
+229	Icobes
+230	Abbaye de Val-Dieu
+231	Pirlot
+232	Brouwerij Serafijn
+233	Palm
+234	Verstraeten H & S
+235	Van Honsebrouck
+236	De Gouden Boom
+237	Brunehaut
+238	Brasserie de la Mule
+239	BeerSelect - Gent
+240	Boelens
+241	Du Bocq
+242	Abdij van La Ramée
+243	Brussels Beer Project
+244	Dubuisson
+245	De Ryck
+246	De Feniks
+247	Dupont
+248	De Vlier
+249	Braven Apostel
+250	Gageleer
+251	VACAS
+252	Rodenbach
+253	Puffin Brewery
+254	Stanium
+255	BramBrass
+256	Sint-Idesbald
+257	Corsendonk
+258	Strubbe
+259	De Vier Monniken
+260	Lefebvre
+261	Caulier SPRL
+262	Cornelissen - voorheen Sint-Jozef
+263	De Glazen Toren
+264	De Halve Maan
+265	Mort Subite
+266	Lechasseur
+267	Louwaege - Verdwenen in 2002
+268	Padel Artisanal
+269	Van den Bossche
+270	Cantillon
+271	Verhaeghe
+272	Fisser
+273	Crombé
+274	Bières de Quartiers
+275	De Cam
+276	Liefmans
+277	Brouwerij 31
+278	Riva
+279	De Ranke
+280	De Troch
+281	Silly
+282	Brasserie des Legendes
+283	Clarysse
+284	Girardin
+285	Hanssens
+286	Leroy
+287	Martens
+288	Silenrieux
+289	Pepieto
+290	Beer Solutions
+291	Rochefortoise - Eprave
+292	Leffe - Inbev
+293	Lindemans
+294	Loterbol
+295	Malheur
+296	d'Oude maalderij
+297	Oud Beersel
+298	Dochter van de Korenaar
+299	BKRK
+300	Sterkens
+301	Rulles
+302	A Vapeur
+303	Lupulus
+304	De Cock
+305	BCB ex-Brouwerij Eutropius
+306	Slaapmutske
+307	Sint-Bernardus
+308	Saint-Feuillien
+309	Saint-Monon
+310	Ter Dolen
+311	Timmermans
+312	Brouwerij Vandaele
+313	Contreras
+314	The Musketeers
+315	Urthel
+316	De Struise Brouwers
+317	De Brouwerij van Vlaanderen bvba
+318	Druïde
+319	Deca
+320	De Hoevebrouwers
+321	Lupiline
+322	Craywinckelhof
+323	Augrenoise
+324	Den Herberg
+325	Hepta
+326	Het Alternatief
+327	Brasserie du Borinage
+328	Bierhuisje Kroegske
+329	Gulden Spoor
+330	't Arrondissement
+331	Vander Ghinste
+332	Heilig Hart
+333	Brasserie Surréaliste
+334	Jandrain-Jandrenouille sprl
+335	Nieuwhuys
+336	Vissenaken
+337	Microbrasserie La Trap’Taupe
+338	Brewingfox
+339	Mortal's Beers - gesloten
+340	Malterfakker
+341	Atrium
+342	One Two Beer
+343	Hofbrouwerijke
+344	't Pakhuis
+345	Captain Cooker International VOF
+346	De Wilde Brouwers
+347	De Backer
+348	Blaugies
+349	Sainte-Helene
+350	La Botteresse
+351	Brasserie du Brabant
+352	Dok Brewing Company
+353	Brasse-Temps
+354	Walrave
+355	Hopperd
+356	Barbiot
+357	Den Haene - De Haan
+358	Des Monts
+359	Grain d'orge - Hombourg
+360	Bellevaux, Brasserie de
+361	Brasserie d’Erquelinnes Brootcoorens
+362	Cazeau
+363	Brouwers van de Grote Markt
+364	Domus
+365	De Schuur
+366	Scassenes
+367	Fagnes
+368	La Brasserie du Château de Durbuy
+369	Gaverhopke
+370	La Source
+371	Gigi
+372	Imprimerie
+373	Lautenne
+374	Millevertus
+375	Old Bailey - in faling
+376	Sint-Canarus
+377	De la Senne
+378	Scheldebrouwerij
+379	De Lelie
+380	Klondiker
+381	Den Tseut
+382	Wolf - vroeger Lupus
+383	Cnudde
+384	Orval
+385	Waterloo - Brewery Mont-St-Jean
+386	Zonderik - Columbus Management BVBA
+387	Jessenhofke
+388	De Leite
+389	du Flo
+390	La Fourmiliere
+391	Cluysenaer - Kluizen
+392	Oxymore
+393	Verhuisbrouwerij
+394	Belgoo
+395	B.G.V. sprl
+396	Buitenlust
+397	De Arend
+398	John Martin NV
+399	Bourgogne Des Flandres
+400	Vissenberg
+401	Den Toeteler
+402	Galea Craft Beers
+403	Hof ten Dormaal
+404	De Stoefers
+405	Lesage
+406	Vanuxeem
+407	Dilewyns
+408	Minne
+409	Battignies
+410	Gruut
+411	Den Triest
+412	Tubize
+413	Kortrijk-Dutsel
+414	Danny
+415	Aaigem
+416	Ghulden Cop
+417	Wilderen
+418	De Gheest
+419	L'Ermitage
+420	Donum Ignis
+421	Viven
+422	Vagebond VOF
+423	Humulus
+424	Montaigu
+425	Angerik
+426	Vliegende Paard Brouwers
+427	Maenhout
+428	Het Giesbaargs Muurken
+429	Antwerpse Brouw Compagnie
+430	Lion à Plume
+431	Brasserie Hoppy
+432	De Kale Ridders
+433	Erneffen
+434	Thoricourt Brewing
+435	Het Nest
+436	At Tack
+437	Hopjutters
+438	Draeckenier
+439	DijkWaert
+440	't Verzet
+441	Vandewalle
+442	Brugs Bierinstituut
+443	Basanina
+444	Broeder Jacob
+445	Everbier
+446	De Plukker
+447	Flurkbrouwers vof
+448	Le Bierodrome
+449	Brasserie28
+450	De 3 Vaten
+451	Half Zeven
+452	Odlo vzw
+453	Paters en Prinsen
+454	Fort Lapin
+455	Traagwater
+456	Hugel
+457	Amburon Belgian Craftbrewery NV
+458	Brasserie d'Ebly
+459	Bryggja
+460	Malonne
+461	't  Paenhuys
+462	Wieze Beer Belgium
+463	Jean Tout Seul
+464	Tilquin
+465	Verstraete
+466	Bier En Karakter
+467	Trappieter
+468	Inter-Pol
+469	BOM Brewery BVBA
+470	Brasserie de Soleilmont
+471	NovaBirra
+472	Belgian Craft Beer Company
+473	Bobelines
+474	Bueckenholt
+475	De Vliet
+476	Het Brouwersatelier
+477	Noordster
+478	't Drankorgel
+479	Vleesmeester Brewery
+480	de la Lesse
+481	Anders!
+482	Henricus
+483	Lestedröppel
+484	De Kroon
+485	Bierfirma Valocco
+486	Elfique
+487	de la Lienne
+488	De Sater
+489	Brasserie Deseveaux
+490	Engilsen
+491	Djinn Creations
+492	Bèrringse Bier Brouwers
+493	Ribaldus
+494	't Kroontje
+495	Toye Marke
+496	Batteliek
+497	Brouwerij Soleil
+498	Wit Peerd
+499	Keizer Kamiel
+500	Brasserie de la Semois
+501	Groenendael
+502	Brasserie Léopold 7
+503	Carrières
+504	Gilbert
+505	Houppe
+506	Gengoulf
+507	Brasserie de l'Attrait
+508	De Meester
+509	De vierkante Meter
+510	De Kassei
+511	Bertinchamps
+512	De Lustige Brouwers
+513	Warsage
+514	Boskal
+515	Brasserie de l'Abbaye de Brogne
+516	Brasserie du Clocher
+517	Peltr
+518	Ermicom Brewery
+519	La Cress BVBA
+520	Station 16
+521	Karbo
+522	La Natoise
+523	Huisbrouwerij Averbode
+524	Kurrel-Hein
+525	Stadsbrouwerij 't Koelschip
+526	NatteLore
+527	Den Buiten
+528	Wenbrew
+529	De Hoorn
+530	Kadee
+531	Haezen
+532	L'Echappée Belle
+533	En Stoemelings
+534	Kazematten
+535	Amai
+536	Hopscheppers
+537	Bieren Van Begeerte
+538	Inglorious Brew Stars
+539	Wapper
+540	Broers
+541	Belleketels
+542	Demanez
+543	De Roerders
+544	Weldebrouck
+545	Keun
+546	L'art d'en brasser
+547	Brasserie des Tchèts
+548	du Renard
+549	La Forge
+550	Gemeldorp
+551	Biermaekers
+552	Bierke Plezierke
+553	Nivellois
+554	De Neus
+555	Molder Bieren
+556	Stokhove
+557	Halen
+558	Beryllium Erbium Brewery
+559	De 6 Helmen
+560	Flanders Fields Brewery
+561	Perron
+562	Anglium
+563	Dame Jeanne
+564	Pottelbergh
+565	Angarde
+566	Kompel Company
+567	d'Oude Caert
+568	De Hemelbrouwers
+569	Bier Butlers vof
+570	vzw Bieren Cabardouche
+571	De Kustbrouwerij
+572	De Feyter Biercompagnie
+573	Brasserie {C}
+574	De Haeckse brouwers
+575	De Poes
+576	Maltytowers
+577	La Clochette
+578	De Vaart
+579	Brouwershof te Steynemolen
+580	Brasserie De L'abbaye De Villers
+581	De Goedheilige Mannen
+582	Domein Reynaert
+583	Dikke Jan
+584	Frasnoise
+585	Van Campenhout
+586	Totem
+587	OostEke Brouwers
+588	Bière Totale
+589	De Schieve
+590	BDL - Brasseries de Liège
+591	4Pajot Microbrouwerij
+592	Waterfields
+593	Lommel Brouwt
+594	Vraie Bière
+595	La Flamme
+596	Leste
+597	HopSaSam
+598	Hedonis
+599	Sarne
+600	Den Bierberg
+601	Delsart
+602	Bas Bieren
+603	La Montoise
+604	Savio
+605	De Keukenbrouwers
+606	De Landing
+607	Bierferm
+608	Medebrouwerij Stuivenberg
+609	Tartaruga Fine Brewing
+610	Brasserie du Lion
+611	Zannoise
+612	The Ministry Of Belgian Beer
+613	Fienneke
+614	Brasserie d'Arlon Cooperative
+615	Be Tasty
+616	Pils n' Love
+617	Gentse Traditie
+618	Den Houten Molen
+619	Lambrecht - Van Hamme
+620	René
+621	De Zwarte Bron
+622	Weerspannige Brouwers
+623	Brunn
+624	Warmenbol
+625	GouPil - gestopt
+626	Brasserie de la Croix
+627	't  Aerts Paradijs
+628	De Bock
+629	Het perkament
+630	De-Meester-Brouwer
+631	Brasserie des Eaux Vives
+632	Het Vicus Genotschap
+633	5 Idioten
+634	Belgo Sapiens Brewers
+635	Hoplinter
+636	Belfort Beer
+637	Den Druppel
+638	Vrijstaat Vanmol Brewing
+639	Let It Beer BV
+640	Bigote
+641	Fulltime Hops
+642	Volders Bieren
+643	Varenbroek
+644	Louis PP
+645	De Houten Valk
+646	Mokke
+647	Witches Brewery
+648	Flawaal
+649	Leysen
+650	De Vuurvlinder
+651	Mareklop
+652	Enigma BVBA
+653	Eskedene
+654	Betsy
+655	Bidon
+656	De Blauwe Kuip
+657	Mievers beer
+658	De Verenigde Brouwers GCV
+659	Monkey Monk
+660	Remise 56
+661	De Klem
+662	La Manufacture Urbaine
+663	Siphon Brewing
+664	Crystalstick
+665	No Science
+666	Het Schietveld
+667	Pater Pitte
+668	Cydrale
+669	VZW 't Brouwerskot - Wervik
+670	Meesters
+671	Bossuwé Brewing
+672	De Gijzelse Microbrouwerij
+673	Abrio Beers
+674	Haeseveld
+675	Eylenbosch
+676	Belgian Beer Experts
+677	Brasserie Gosselin F.
+678	Alfred
+679	Den Duffeleir
+680	Egidius Bieren
+681	Het Brouwhuis
+682	De Koperen Markies
+683	L'Arogante
+684	Polygoon
+685	Septimus
+686	Brasserie Coopérative Liégeoise
+687	Bachten De Kupe Bier Compagnie
+688	Sjarel Beer Company
+689	Tall Poppy Brewing
+690	Lambiek Fabriek
+691	Brochus
+692	Brasserie de la Sambre
+693	Better Beer Brewers
+694	Nini Brewery
+695	Brewlab
+696	Brasserie Ô
+697	Vorselazarus
+698	Hesbania
+699	HOPportunity Beer Factory
+700	Van Renterghem
+701	Expert Beers
+702	Dok's
+703	Glorius Bastards
+704	La Bestiale
+705	Buvens
+706	Pjeirefretter - Paradise Lane
+707	De Biersmid
+708	’T DUO
+709	De Koekoeksbrouwer-ei
+710	Braus
+711	Van Hellemont
+712	Stanneman
+713	Kouter Brewery
+714	Ultima
+715	Biosenza
+716	Belga Blue
+717	Cubus
+718	De Donder
+719	Trejense Brouwers
+720	Weyneshop Brewery
+721	't Hoppegeluk
+722	Saint-Lazare
+723	Jus De Mer
+724	Balts bieren
+725	Wildebrasse
+726	Ierbius
+727	La Furetoise
+728	Decum
+729	Sako
+730	Ganzenhof
+731	Gloriaan
+732	Sweynbeer
+733	De Laatste Drinker
+734	Demervallei
+735	Kasuta Craft Brewers
+736	L and G Brewers
+737	De Hazen
+738	Sint Jozef
+739	Domesticus
+740	Taxandria
+741	Hibou Craft Beer Company
+742	OWA Brewery
+743	Illegaal
+744	Houblons de Bruxelles
+745	Brasserie du Val de Dendre
+746	La Radine De BuZet
+747	Family Man Brewing Company
+748	Brasserie du Plat Pays
+749	La Brassine
+750	La Bière Tombale
+751	Brasserie des 3 Provinces
+752	De Beverse Mout
+753	Fris & Monter BV
+754	Steeman
+755	Rolling Hills
+756	Perijo
+757	Ostdonk Bieren
+758	Maesschalck
+759	't Atelier
+760	De Meulekes
+761	Brasserie Les Mûriers
+762	Abbaye de Flône
+763	Brixius
+764	De Herck
+765	De Carport
+766	Brouwbar
+767	De Nachtraafbrouwers
+768	Craft Beers Hoppug
+769	Kristonian Group
+770	Valduc-Thor
+771	Brabance
+772	Witloof
+773	Kluiz
+774	Nectar Bohème
+775	De Zinken Kuip
+776	L'annexe
+777	Brooz Brew
+778	Ginette
+779	Bisous M'Chou
+780	Hoptimum
+781	Brasserie de Londres
+782	La Redoutable
+783	VBDCK
+784	Innova Brewery
+785	Leeflank
+786	Lamasa
+787	Microbrouwerij Moat
+788	Van Vlees En Bier
+789	Breda
+790	Koboi
+791	Belgian Brew Brothers
+792	Circus
+793	Donbosvalk
+794	Ox Brewery
+795	Les Deux Morins
+796	Force Majeure
+797	De Mederie
+798	Brasserie Adventures
+799	Antidoot
+800	Rostune
+801	Porte Bonheur
+802	L'Herbièriste
+803	Viridis Bracino
+804	MAK Brewery
+805	Saint-Jean
+806	Aareberg
+807	Belgenius
+808	De Dreef
+809	Crow Mountain
+810	Paalsteen
+811	Arever
+812	DrinkDrink!
+813	Brasserie de la Cambre
+814	Corniche
+815	Mobius Beer
+816	Viridis Vallis
+817	4KNT
+818	Braxatorium Parcensis
+819	Castalia Craft Beers
+820	Beerbugs
+821	Eylenbosch NIEUW
+822	HS - Haute Senne
+823	Beerstorming
+824	9032 Bierlab
+825	Abbaye d'Aywiers
+826	Werbrouck
+827	Volga
+828	Misty Moon
+829	Heldin
+830	Zwaan9
+831	Les 3 Florins
+832	Brasserie de Franchimont
+833	Brasserie de Cambron - Pairi Daiza
+834	1B2T - 1Bière 2Tartines
+835	Gembloux.beer S.A.
+836	Vivement Dimanche
+837	Houblon Noir
+838	Purleuse
+839	Bram's Brewery
+840	Adriaensen
+841	La Grande d’Ame
+842	Heimelink
+843	Turbeau Rock Brewing Company
+844	La THArée
+845	Neobulles
+846	Jean Brasse
+847	BlommeCaes
+848	Brouwateljee
+849	Ruimtegist
+850	Ginderachter
+851	BE My Honey
+852	Hulstlo
+853	Benoit
+854	Felis
+855	Malcroys Brewing
+856	J'irai Brasser Chez Vous
+857	Kana
+858	Heroes Amazing Beer
+859	De Brouwmoaten
+860	De Damse Brouwers
+861	Beetles Beer
+862	Mochenaire
+863	Brasserie de la Hunelle
+864	Brasserie d'Eynatten
+865	L'Exclu
+866	Stien
+867	Brasserie des Trevires
+868	Moutgaarden
+869	Klootzakske
+870	Brughuis Brouwers
+871	De Waanzin
+872	DUST Blending
+873	Bierfirma Meelberghs
+874	The Brew Society
+875	BrewFever
+876	Mums
+877	Eifel Craft Beer
+878	Brouwerij B Blankenberge
+879	Bar Belge Brewery
+880	Beer I Like BV
+881	Brouwkotje Lendelede
+882	Westvlams Klugtje
+883	Steven
+884	Coucke
+885	Bastion
+886	Tom's Brouwerij
+887	River Project
+888	Beer Van Brugge
+889	Gebroeders Hermans Frères
+890	Kuul
+891	Bovenkassei
+892	Felix Hoppenbrouwers
+893	Dum's Brew
+894	Le fou du roi
+895	Papitou - MV²O
+896	Brasserie Marcelin
+897	Brasserie de l'Abbaye de Saint-Ghislain
+898	Swiekes
+899	Brasserie des Djeus
+900	Cloet
+901	OBAA
+902	Boels
+903	Den Stillen Ardois
+904	Beer 4 Nature
+905	Brasserie du Vieux Marbre
+906	Gansbeek Brewery
+907	Houtlandse Brouwers
+908	Hallelujah Brewery
+909	La Cabane des Brasseurs
+910	Eifel Domaine Brewery
+911	Bère Brouwers
+912	La Brasserie Belge
+913	Marcus Beer
+914	Bokke
+915	Doef
+916	Ferm Beer Brews
+917	Eau Contraire Vzw
+918	Ever Bier
+919	Molder & Coop
+920	FoxTown Beer Crew
+921	Tsatsatsa Brewery
+922	Brasserie de la Couronne
+923	Brasserie de l'Héritage
+924	Brewksel
+925	Les Caves de Saint-Georges
+926	Vallée de la Haine Brasserie
+927	Max Craft Beer
+928	Rasta Moine
+929	Brasserie Spits
+930	La Coq’Rie
+931	Buurtbrouwerij de Coureur
+932	ThuisBrouwerij FloRik
+933	Beer & You
+934	Brasserie d'Oster
+935	La Cahute
+936	Bière Ottintoise
+937	Humboldt en Gauss
+938	Brouwerij Adept
+939	De Mortselarij
+940	Brasserie du Larron
+941	Brasserie Ardene
+942	Bofkont
+943	Beer-Concept
+944	Brasserie de Rochehaut
+945	Brasserie du Pays Noir
+946	Klaas Bier
+947	BRAUW
+948	Brasserie Vandekelder
+949	Naft
+950	De Boezemvrienden
+951	Verduyn Bier
+952	Braven - Haaltert
+953	Badkuipbrouwers
+954	Deltakappa
+955	Li p'tite brèssène
+956	Chapel brewers
+957	KRU
+958	Brasserie Cadet
+959	Brouwerij Luypaerts
+960	De Logt
+961	Brasserie La Fanny
+962	Brasseries de Flobecq
+963	Brasserie Houblonde
+964	Kurre Bier
+965	Merci Robert
+966	Pandinus Brewery
+967	Van Bulck
+968	Nobilem
+969	Pure Range Beers
+970	Janus
+971	Time Out Bier
+972	Mish Mash
+973	Brasserie H2O
+974	Brasserie Sartoise
+975	Superfood Beers
+976	Brasserie de la Hantes
+977	Brasserie Houbion
+978	Embrace Drinks
+979	De Schans Genenbos
+980	Brouwerij Bezoens
+981	Big Brewers
+982	Nomad Beer Project
+983	Vilbas Bier Manufaktur
+984	Lumberjacks Brewers
+985	La Nanobrasserie de Marcellin
+986	Nasty Fox
+987	Lab 04
+988	Brasserie de Hosdent - Entre Nous
+989	Les Bières Du Confluent
+990	Brasserie du Cameleon
+991	Beir Brewing
+992	Brouwerij Van Roy
+993	Brouwerij Vaneigene
+994	Brewing Rebels
+995	Crazy Salamander
+996	Skøllmann
+997	Brouwerij 9900
+998	Comesier
+999	Dr Blues Belgian Brews
+1000	42-FourTwo
+1001	Hub Brewers
+1002	Viva Brews
+1003	Maîtresse
+1004	Brouwerij Valentin
+1005	Brouwerij Hop
+1006	Hops Meets Friends
+1007	Brouwerij Jacobs
+1008	Brouwerij Taarfgoed
+1009	Dings
+1010	Brasserie La Jungle
+1011	Brasserie Escaillonne
+1012	Brasserie Béquin
+1013	Brasserie de la Rogère
+1014	Brasserie 3F
+1015	Brasserie Schockmel
+1016	Brasserie des Arondes
+1017	Brouwbende
+1018	Brasserie Saint Mutien
+1019	Brasserie 113
+1020	Brasserie Deforest
+1021	Brasserie du Grand Mir
+1022	Micro-brasserie Choulotte
+1023	Brasserie Laetare
+1024	Brouwerij Vandijck
+1025	Eupener Brauerei
+1026	Brasserie Fredeber
+1027	Brasserie Forêt
+1028	Belgium Peak Beer
+1029	Brasserie Saint Tous
+1030	Mickrobrasserie de Halinsart
+1031	Brasserie Artisanale de la Fabrique
+1032	Brasserie Cosse
+1033	Brasserie Artisanale La Sparsa
+1034	Brauerei Nova Villa
+1035	Artisa’Malt
+1036	Misery Beer Co
+1037	Brasserie Artisanale Loustic
+1038	Une Bonne Pipe
+1039	Brasserie Sponk
+1040	Experiment'Ale
+1041	Brasserie de la Station
+1042	Brasserie Vaurien
+1043	Brasserie L4
+1044	Brasserie du Soquet
+1045	Brasserie du Comte Hener
+1046	Microbrasserie de Thiaumont
+1047	Picobrasserie Patron
+1048	Brasserie Invictus
+1049	Brasserie du Condroz
+1050	Brasserie de Lonsees
+1051	Brasserie du Terril
+1052	Brouwerij Brerik
+1053	Tête Chargée
+1054	Micro-brasserie Dongelbertoise
+1055	Brasserie de l'Orne
+1056	Brasserie La Fluviation
+1057	2930.Beer
+1058	Brouwerij Zelderloo
+1059	Iedereen Bavo
+1060	Tourette Brewing
+1061	Secondje
+1062	Helmes
+1063	Les Bières du Chat Noir
+1064	Santé Beer
+1065	Label Noir
+1066	Van Damme
+1067	Arrive Brewing Co.
+1068	Brasserie Vancaillie
+1069	Brouwerij 't Bestuur
+1070	Beerbird
+1071	Brasserie Le Goupil
+1072	De Believers
+1073	Brouwerij Schaepherders BV
+1074	Orbins
+1075	Blacksmith
+1076	Het Zoete Mondje
+1077	Den Baerd
+1078	Holy Beer House
+1079	Hops Meet Friends
+1080	Microbrasserie des Coccinelles
+1081	Late Night Brew Co.
+1082	De Schol
+1083	't Bijhuys
+1084	Westkwartier
+1085	Bierstekers
+1086	Speciale Belge Brewers
+1087	Amburix
+1088	BrewTous’
+1089	Charlie
+1090	Flak Beer
+1091	Karrelees
+1092	La Poste
+1093	De Geiteling
+1094	Purple Hops
+1095	Zythologist
+1096	Weynbrouwerij
+1097	Radhus & ses bières
+1098	Monstruo
+1099	Martinas Bieren
+1100	Elcano
+1101	Brasserie Philippe
+1102	Arel Brewing Project
+1103	De Rechter
+1104	Brouwerij van't Pajottenland
+1105	Sosab
+1106	PULP Brasserie Urbaine
+1107	Brickx
+1108	Deux Ours
+1109	NPD Natoye Peace Brasserie
+1110	Stroom
+1111	MY Beers
+1112	Bobbi
+1113	Kapsuul
+1114	Brasserie Watipique
+1115	Jumeaux
+1116	Mazette
+1117	Mosquito Brasserie
+1118	Peppermill
+1119	Janine
+1120	Kestemont
+1121	Sergeant Craft Beers
+1122	Bruur.beer
+1123	Magnus
+1124	Filibertus
+1125	Fugu Brewing Company
+1126	DrinkThatBeer
+1127	Den Tuymelaar
+1128	Hopseïdon
+1129	Les Graillons
+1130	Norm Brewing
+1131	Bière Success
+1132	Vollen Bak
+1133	Brasserie de Flandre
+1134	Tuerelure
+1135	VOF Checkouts
+1136	Sambro Brewers
+1137	Van Ver Exotic Belgian Beer
+1138	De Kapoen
+1139	Dorpsweyden
+1140	AD Brewing
+1141	Tikkeneike
+1142	Kanaal One Brewery
+1143	Zeevonk
+1144	Brand & Soul
+1145	Yolo Beer
+1146	Flosch
+1147	Brauerei Néau
+1148	Brewmine TAP
+1149	Pellicle Vergistingen
+1150	La Petite Fille Colmant
+1151	De Hoppertjes
+1152	Brouwe Bier
+1153	De Borggraaf
+1154	Angus Bier
+1155	Lardinois
+1156	Abdij van Grimbergen
+1157	Het Boerenerf Eylenbosch
+1158	Terrest
+1159	CoHop
+1160	Stene
+1161	Brasserie Willow'S
+1162	Brasserie du Bois des Prisonniers
+1163	Sortie 14
+1164	Rubbens
+1165	De Zwoane
+1166	Sans Merci
+1167	La Ferme des Loups
+1168	Brombeercompagnie
+1169	Brouwkeet
+1170	Brasserie du Cochon Fantôme
+1171	Tipsy Tribe
+1172	Brouwerij Storme-Vansevenant
+1173	Martelange
+1174	Hengstbergen Bier
+1175	Gasabo Brewery
+1176	Brasserie du Bois l'Évêque
+1177	Drogenbos
+1178	Brasserie de la Spêche
+1179	Gier
+1180	Blicquy
+1181	Barak
+1182	Belgian Beer Brewing
+1183	De Krak
+1184	Klikske
+1185	Stadsbrouwerij Artevelde
+1186	Taymans
+1187	Gentleman
+1188	The Biking Brewers
+1189	Antwerps Brouwinitiatief
+1190	Bourlettine
+1191	Excelsis
+1192	Brouwzer
+1193	de Metzert
+1194	No Waste Republic
+1195	Wolf.Brussels
+1196	La Brasserie des Fées
+1197	2Xperience
+1198	Diaz Brewing Company
+1199	Tetras.Beer
+1200	’t Hoppenest
+1201	Brews Lee Beer Crafting
+1202	De Moare
+1203	La Vignette
+1204	Adoria
+1205	Racines Carrées
+1206	La MA'riebrasse
+1207	Brasserie De Flohimont
+1208	Folklorique
+1209	Dwarf Brewery
+1210	L'Ophinoise
+1211	La Solution
+1212	Babeleir
+1213	Small Street Beer
+1214	Cheerful Friends Brewing Co
+1215	Tjolders
+1216	Hoptwins Brouwers
+1217	Dorser
+1218	Waterghem
+1219	Rimor Brewery
+1220	Facbeer
+1221	De Neef-Moortgat
+1222	Klein Kloosterke
+1223	Boes Brewing Company
+1224	Zuidkant
+1225	Dorpsbrouwerij Bierbeek
+1226	Hoorncraft
+1227	Brasserie des Tours
+1228	SE10 Brewing
+1229	Genker Banbrouwerij
+1230	Le Cours Du Malt
+1231	Bière à la Ferme
+1232	Mascafia
+1233	Man & Brouw
+1234	Schwalbe
+1235	Lesterny Bîre Compagnie
+1236	Halsbergh
+1237	Publitasting
+1238	Clovis
+1239	Ouroboros Bier
+1240	M.A.P.
+1241	Artisanale Bierfabriek
+1242	Belleau
+1243	Vermeersch
+1244	De Lentehei
+1245	Cobblestone Craft Brewery
+1246	Hopspot
+1247	Deneef-Moortgat
+1248	Party Rock
+1249	De Swerte Arend
+1250	NOOB Beer Co.
+1251	LaBo28
+1252	Mach-1 beer
+1253	Op Zolder
+1254	Bières de Court
+1255	Belgabrew
+1256	Asnaise
+1257	Brakke Brouwers
+1258	Braugias
+1259	Brasserie Des Beaux Jours
+1260	Wispelturig Wuvetje
+1261	Plaisir
+1262	Tout Bien
+1263	De Straviusbrouwers
+1264	Microbrasserie des Trois Chênes
+1265	De Musketons
